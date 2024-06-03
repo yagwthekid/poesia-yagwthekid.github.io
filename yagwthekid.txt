@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>yagwthekid - Poesias</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        .poesia {
+            margin-bottom: 30px;
+        }
+
+        .titulo {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .texto {
+            font-size: 1.2em;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>yagwthekid - Poesias</h1>
+</header>
+
+<main>
+    <div class="poesia">
+        <div class="titulo">Insensatez</div>
+        <div class="texto">
+            Ah, insensatez, o que você fez?
+            Coração mais sem cuidado
+            Fez chorar de dor o seu amor
+            Um amor tão delicado
+
+            Ah, por que você foi fraco assim?
+            Assim, tão desalmado?
+            Ah, meu coração, quem nunca amou
+            Não merece ser amado
+
+            Vai, meu coração, ouve a razão
+            Usa só sincericade
+            Quem semeia vento, diz a razão
+            Colhe sempre tempestade
+
+            Vai, meu coração
+            Pede perdão, perdão apaixonado
+            Vai, porque quem não pede perdão
+            Não é nunca perdoado
+        </div>
+    </div>
+
+    <div class="poesia">
+        <div class="titulo">Título da Poesia 2</div>
+        <div class="texto">
+            Aqui vai o texto da sua segunda poesia.
+        </div>
+    </div>
+
+    <!-- Adicione mais poesias conforme necessário -->
+</main>
+
+<footer>
+    &copy; 2024 yagwthekid - Todos os direitos reservados
+</footer>
+
+</body>
+</html>
